@@ -11,6 +11,7 @@ import 'mavon-editor/dist/css/index.css'
 import moment from 'moment'
 
 Vue.config.productionTip = false
+// test
 
 Vue.use(Antd)
 Vue.use(mavonEditor)
